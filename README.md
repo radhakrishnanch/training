@@ -1,2 +1,2 @@
 # training
-learning about github repo
+learning about github repo -edited from master
