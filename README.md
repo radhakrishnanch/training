@@ -1,3 +1,3 @@
 # training
 learning about github repo -edited from master
-just committing from master
+just committing from master--edited from github.com
